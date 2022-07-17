@@ -11,3 +11,4 @@ Criar um ponto um eletrônico que armazene os registros no banco de dados mysql,
 - Para criar a conexão com o banco de dados mysql foi utlizado a biblioteca mysql-connector (pip install mysql-connector-python)
 
 > **Não esqueça de alterar a senha do banco de dados**
+> **Não esqueça de alterar a pasta das fonts utilizadas**
