@@ -7,7 +7,7 @@ def criarConexaoDB(host_name: str, user_name: str, user_password: str, db_name: 
         conexao = mysql.connector.connect(
             host=host_name,  # localhost
             user=user_name,  # root
-            passwd=user_password,  # @Ema2022*
+            passwd=user_password, # senha do banco
             database=db_name,  # ponto_eletronico
         )
         # print("A conexão com o banco de dados foi realizada!")
