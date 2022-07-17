@@ -9,3 +9,5 @@ Criar um ponto um eletrônico que armazene os registros no banco de dados mysql,
 - Como tela foi utilizado a biblioteca tkinter (pip install tk)
 - Para utilizar inserir a imagem na tela foi utilizada a biblioteca Pillow (pip install Pillow)
 - Para criar a conexão com o banco de dados mysql foi utlizado a biblioteca mysql-connector (pip install mysql-connector-python)
+
+* Não esqueça de alterar a senha do banco de dados
